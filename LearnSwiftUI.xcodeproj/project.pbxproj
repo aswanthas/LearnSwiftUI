@@ -14,6 +14,7 @@
 		7D57A6232C7F35C200CB863F /* ImageGalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D57A6222C7F35C200CB863F /* ImageGalleryView.swift */; };
 		7D57A6252C7F72EE00CB863F /* TabViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D57A6242C7F72EE00CB863F /* TabViewExample.swift */; };
 		7D67700D2CABF467002A8EDE /* FloatingMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D67700C2CABF467002A8EDE /* FloatingMenu.swift */; };
+		7D67700F2CAD69B0002A8EDE /* CustomSegment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D67700E2CAD69B0002A8EDE /* CustomSegment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7D57A6222C7F35C200CB863F /* ImageGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGalleryView.swift; sourceTree = "<group>"; };
 		7D57A6242C7F72EE00CB863F /* TabViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewExample.swift; sourceTree = "<group>"; };
 		7D67700C2CABF467002A8EDE /* FloatingMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingMenu.swift; sourceTree = "<group>"; };
+		7D67700E2CAD69B0002A8EDE /* CustomSegment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSegment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				7D57A6222C7F35C200CB863F /* ImageGalleryView.swift */,
 				7D57A6242C7F72EE00CB863F /* TabViewExample.swift */,
 				7D67700C2CABF467002A8EDE /* FloatingMenu.swift */,
+				7D67700E2CAD69B0002A8EDE /* CustomSegment.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			files = (
 				7D67700D2CABF467002A8EDE /* FloatingMenu.swift in Sources */,
 				7D57A6232C7F35C200CB863F /* ImageGalleryView.swift in Sources */,
+				7D67700F2CAD69B0002A8EDE /* CustomSegment.swift in Sources */,
 				7D57A6152C7F2BF100CB863F /* ContentView.swift in Sources */,
 				7D57A6252C7F72EE00CB863F /* TabViewExample.swift in Sources */,
 				7D57A6132C7F2BF100CB863F /* LearnSwiftUIApp.swift in Sources */,
