@@ -70,6 +70,7 @@ struct CustomSegment: View {
 
 #Preview {
     CustomSegment()
+    AnimationText()
 }
 enum SegmantButton: String, CaseIterable {
     case all = "all"
